@@ -13,7 +13,7 @@ ONLY use these when you have to!! You can accomplish almost anything with the es
 
 ## YouTube channels
 - [The REAPER Blog](https://www.youtube.com/user/audiogeekzine/videos)
-- [ReaperTV](https://www.youtube.com/channel/UCMUHt6JzCMsdtvkaJpU3KXw/playlists
+- [ReaperTV](https://www.youtube.com/channel/UCMUHt6JzCMsdtvkaJpU3KXw/playlists)
 - [REAPER Mania](https://www.youtube.com/channel/UCq297H7Ca98HlB5mVFHGSsQ)
   
 
