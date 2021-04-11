@@ -67,3 +67,15 @@ Start with [Serum](https://xferrecords.com/products/serum). Below are some tutor
 - [Dorian Day - Serum in Depth](https://www.youtube.com/playlist?list=PLrqs7vRFQ4rbeHxoDJHDGL3UkHgbcLZ62)
 - [Live 10 Wavetables for Serum](https://drive.google.com/file/d/1nFMuDHQpAMytbiVQlzL8kPKyxLbZSbYY/view) (highly recommended!)
 - [1700 free wavetables](https://www.reddit.com/r/edmproduction/comments/2jhew1/1700_waveforms_for_serums_wavetable_download_link/)
+
+## Samples
+
+### Free
+- [MusicRadar - over 70,000 samples organized by category](https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-and-multis-to-download)
+- [Freesound.org - huge repository of user-uploaded samples](https://freesound.org)
+
+### Paid
+[Comparison article](https://audioassemble.com/best-audio-samples-subscription-services/)
+- [Splice](splice.com/sounds)
+- [Noiiz](https://www.noiiz.com)
+- [Loopcloud](https://www.loopcloud.com/cloud/)
