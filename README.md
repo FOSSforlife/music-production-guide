@@ -6,7 +6,7 @@
   - Comes with the [Guitar Rig 6 Player](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-6-player/) virtual amp software.
 - [iZotope Neutron](https://www.izotope.com/en/products/neutron.html) (all-in-one EQ, compressor, exciter, transient shaper, and more)
 
-### Other Great Plugins
+## Other Great Plugins
 - [iZotope Trash 2](https://www.pluginboutique.com/products/438-Trash2) (AMAZING distortion plugin, not free but often on sale)
 - [EZDrummer](https://www.toontrack.com/product/ezdrummer-2/) (high-quality acoustic drum instrument, not free)
 - [Serum](https://xferrecords.com/products/serum) (synthesizer, not free. Lots of quality presets online)
@@ -15,7 +15,7 @@
   - Reaper doesn't come with a live performance sequencer like Ableton and FL Studio do, so this is a good alternative.
 - [Youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) (not a plugin, but useful for downloading backing tracks, samples, and other audio from YouTube)
 
-## Other Free Plugins
+## Where To Find Free Plugins
 ONLY use these when you have to!! You can accomplish almost anything with the tools listed above.
 - [AFreeStudio.com](https://AFreeStudio.com)  
 - [Unlock THOUSANDS of Free Plugins in Reaper](https://youtu.be/2W8gbpfxwiM)  
