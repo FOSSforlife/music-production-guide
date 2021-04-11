@@ -1,21 +1,30 @@
 # Music Production Guide
 
 ## Essential Tools
-- REAPER
-- EZDrummer
-- iZotope Neutron
+- [REAPER](https://reaper.fm)
+- [Komplete Start](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/) (free suite of plugins)
+  - Comes with the [Guitar Rig 6 Player](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-6-player/) virtual amp software.
+- [iZotope Neutron](https://www.izotope.com/en/products/neutron.html) (all-in-one EQ, compressor, exciter, transient shaper, and more)
 
-## Free Plugins
-ONLY use these when you have to!! You can accomplish almost anything with the essential tools above (although you may also want a [virtual guitar amp](https://bedroomproducersblog.com/2012/02/21/bpb-freeware-studio-best-free-guitar-amp-simulator-vstau-plugins/)).
+### Other Great Plugins
+- [iZotope Trash 2](https://www.pluginboutique.com/products/438-Trash2) (AMAZING distortion plugin, not free but often on sale)
+- [EZDrummer](https://www.toontrack.com/product/ezdrummer-2/) (high-quality acoustic drum instrument, not free)
+- [Serum](https://xferrecords.com/products/serum) (synthesizer, not free. Lots of quality presets online)
+- [Vital](https://vital.audio) (synthesizer, free. Much newer, so not as many presets available)
+- [Stochas](https://stochas.org) (sequencer, free)
+  - Reaper doesn't come with a live performance sequencer like Ableton and FL Studio do, so this is a good alternative.
+- [Youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) (not a plugin, but useful for downloading backing tracks, samples, and other audio from YouTube)
+
+## Other Free Plugins
+ONLY use these when you have to!! You can accomplish almost anything with the tools listed above.
 - [AFreeStudio.com](https://AFreeStudio.com)  
 - [Unlock THOUSANDS of Free Plugins in Reaper](https://youtu.be/2W8gbpfxwiM)  
-- [Free VST Plugins](https://bedroomproducersblog.com/free-vst-plugins/)
+- [Bedroom Producers Blog: Free VST Plugins](https://bedroomproducersblog.com/free-vst-plugins/)
 
 ## YouTube channels
 - [The REAPER Blog](https://www.youtube.com/user/audiogeekzine/videos)
 - [ReaperTV](https://www.youtube.com/channel/UCMUHt6JzCMsdtvkaJpU3KXw/playlists)
 - [REAPER Mania](https://www.youtube.com/channel/UCq297H7Ca98HlB5mVFHGSsQ)
-  
 
 ## Mixing courses
 - REAPER Blog: Beginner Mixing Course
