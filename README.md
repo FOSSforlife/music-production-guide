@@ -83,7 +83,9 @@
 - [iZotope - How To Mix Vocals from Start to Finish](https://www.youtube.com/watch?v=jdIyIcH1_G8)
 
 ## More info on synthesizers
-If you're willing to spend a little extra ($10/month) and want the ability to download lots of high-quality presets (instead of making your own from scratch), go with [Serum](https://xferrecords.com/products/serum). If you don't care as much about presets, want to learn sound design, want to support open source, or are just strapped for cash, go with [Vital](https://vital.audio). Vital also has Linux support and stores its patches in JSON format, which is awesome if you're a programmer.
+If you're willing to spend a little extra ($10/month) and want the ability to download lots of high-quality presets (instead of making your own from scratch), go with [Serum](https://xferrecords.com/products/serum). 
+
+If you don't care as much about presets, want to learn sound design, want to support open source, or are just strapped for cash, go with [Vital](https://vital.audio). Vital also has Linux support and stores its patches in JSON format, which is awesome if you're a programmer.
 
 ### Serum
 - Download: [3-day free trial, then rent-to-own for $10/month over 19 months](https://splice.com/plugins/15493-serum-vst-au-by-xfer-records)
