@@ -9,17 +9,27 @@
 - A DAW (digital audio workstation). There is no correct DAW to use. These all have different workflows, each with their own pros and cons, so choose what you like the most.
   - My personal favorites (I mainly use the top two): 
     - [REAPER](https://reaper.fm) (Mac, Windows, Linux) - My go-to for mixing, mastering, and recording. Very cheap, but just as powerful as any of the others. It's also the most customizable/scriptable DAW (you can use code to arrange items, route audio, and even write your own audio processing plugins!) Currently I use both this and Bitwig, but I might switch to just REAPER in the future if I can set everything up the way I like it.
-    - [Bitwig Studio](https://www.bitwig.com/) (Mac, Windows, Linux) - Currently what I use for jamming and sound design. Use this if you're into making sounds. It comes with a modular patching environment (The Grid) that is more intuitive than all of the other comparable tools out there.
-    - [Ableton Live](https://www.ableton.com) (Mac, Windows) - Like Bitwig, excellent for sound design and live performance. Extremely popular with electronic musicians, both professionals and hobbyists. Where it exceeds Bitwig: its plethora of high-quality, professional-sounding synths, effects, and samples (over 70 GB!) Where it lags behind Bitwig: no Linux support, its modular patching environment (Max for Live) is much more daunting, and it's more expensive. 
+    - [Bitwig Studio](https://www.bitwig.com/) (Mac, Windows, Linux) - Currently what I use for jamming and sound design. Use this if you're into making sounds. It comes with a [modular patching environment (The Grid)](https://www.youtube.com/watch?v=-wHHbV8Zw4g) that is more intuitive and fun to use than all of the other comparable tools out there.
+    - [Ableton Live](https://www.ableton.com) (Mac, Windows) - Like Bitwig, excellent for sound design and live performance. Extremely popular with electronic musicians, both professionals and hobbyists. Where it exceeds Bitwig: its collection of high-quality, professional-sounding synths, effects, and samples (over 70 GB!) Where it lags behind Bitwig: it's more expensive, doesn't have Linux support, and its modular patching environment (Max for Live) is much more daunting.
   - Some others you may want to consider:
     - [Pro Tools](https://www.avid.com/pro-tools) (Mac, Windows) - Industry standard. **Only use this (or at least learn _how_ to use it) if you plan to work in a professional studio. Otherwise, don't bother.**
-    - [Logic Pro](https://www.apple.com/logic-pro/) (Mac) - Haven't used it, but supposedly it comes with lots of cool plugins and an intuitive workflow, and I know professionals who use it daily. At $200, it might be the best bang for your buck if you're a Mac owner. 
-    - [Studio One](https://www.presonus.com/products/Studio-One) (Mac, Windows) - Haven't used this either, but a lot of people seem to like it.
-    - [FL Studio](https://www.image-line.com) (Mac, Windows) - Popular with electronic and hip hop musicians. LIFETIME free upgrades, which is nice if you plan to use it for a long time. I started out with this, but ended up liking Bitwig, Ableton, and Reaper a lot more.
-  - In addition, when it comes to composition and sound design (NOT mixing and mastering), some people prefer to use a "DAW-less" setup. This could involve using hardware sequencers/synths/drum machines, coding environments like Super Collider, virtual modular environments like VCV Rack, or a combination of all of the above. Don't spend your time on this if you're just starting out, but know for future reference that these tools exist.
-- [Komplete Start](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/) (free suite of plugins)
+    - [Logic Pro](https://www.apple.com/logic-pro/) (Mac only) - Haven't used it, but supposedly it comes with lots of cool plugins and an intuitive workflow, and I know professionals who use it daily. At $200, it might be the best bang for your buck if you're a Mac owner. 
+    - [Studio One](https://www.presonus.com/products/Studio-One) (Mac, Windows) - Haven't used this either, but a lot of people seem to like it. You can [rent-to-own](https://splice.com/daws/38892279-studio-one-5-professional-by-presonus) it for $17/mo.
+    - [FL Studio](https://www.image-line.com) (Mac, Windows) - Popular with electronic and hip hop musicians. LIFETIME free upgrades at a cheap price, which is nice if you plan to use it for a long time. I started out with this, but ended up liking Bitwig, Ableton, and Reaper a lot more.
+    - [Cakewalk](https://www.bandlab.com/products/cakewalk) - Free DAW. Tried it a while ago and didn't care much for it, but some people seem to like it. Try it out, but don't let price be the sole determining factor.
+  - In addition, when it comes to electronic composition and sound design (NOT mixing and mastering), some people prefer to use a "DAW-less" setup. This could involve using hardware sequencers/synths/drum machines, coding environments like Super Collider, virtual modular environments like VCV Rack, or a combination of all of the above. Don't spend your time on this if you're just starting out, but know for future reference that these tools exist.
+- Free virtual instruments and guitar amps: [Komplete Start](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/)
   - Comes with the [Guitar Rig 6 Player](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-6-player/) virtual amp software, some drum kits (in the Kontakt Factory Selection), and [much more](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/included-products/).
-- [iZotope Neutron](https://www.izotope.com/en/products/neutron.html) (all-in-one EQ, compressor, exciter, transient shaper, and more)
+- A mixing/mastering plugin suite: iZotope Neutron and Ozone Standard (includes EQ, compressor, exciter, transient shaper, and more)
+  - If you can only afford one, get Neutron. You won't need Ozone until you're ready to master, in other words preparing to release an EP/album.
+  - If you're using Ableton Live, just start with the built-in mixing/mastering plugins. 
+  - Neutron + Ozone:
+    - [One-time purchase: $500](https://www.pluginboutique.com/product/2-Effects/39-FX-Bundle/7514-Mix-Master-Bundle)
+    - [Rent-to-own: $15/mo for 25 months](https://splice.com/plugins/38765945-ozone-9-neutron-3-standard-vst-by-izotope)
+    - Or, join the [iZotope Producers Club](https://www.izotope.com/en/shop/producers-club-monthly.html) for $20/mo which includes both of these and much more, and will give you the latest upgrades going forward. The downside is that you never get to "own" the plugins. Once you stop paying, they stop working.
+  - Neutron:
+    - [One-time purchase: $250](https://www.pluginboutique.com/products/5411)
+    - [Rent-to-own: $10/mo for 25 months](https://splice.com/plugins/38728958-neutron-3-standard-vst-au-by-izotope)
 
 ### Other Great Plugins
 - [iZotope Trash 2](https://www.pluginboutique.com/products/438-Trash2) (AMAZING distortion plugin, **not free** but often on sale)
@@ -35,12 +45,6 @@
 - [Youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) (download backing tracks, samples, and other audio from YouTube)
 - [All8 Tap BPM](https://www.all8.com/tools/bpm.htm) (can detect BPM by tapping the keyboard)
 
-### Where To Find Free Plugins
-ONLY use these when you have to!! You can accomplish almost anything with the tools listed above.
-- [AFreeStudio.com](https://AFreeStudio.com)  
-- [Unlock THOUSANDS of Free Plugins in Reaper](https://youtu.be/2W8gbpfxwiM)  
-- [Bedroom Producers Blog: Free VST Plugins](https://bedroomproducersblog.com/free-vst-plugins/)
-
 ## How to Mix Rock Music using REAPER and iZotope Neutron
 
 ### Start here
@@ -51,10 +55,11 @@ ONLY use these when you have to!! You can accomplish almost anything with the to
 - [REAPER Blog: Mixing Rock With REAPER Stock Plugins](https://www.youtube.com/watch?v=WQZ0nivlCvQ&list=PL4mhaIEnflCBNTGK6Ggxsy-oJDANa1-Kt&index=20&t=0s)
 - [iZotope: How to Mix a Song from Start to Finish](https://youtu.be/-f3SgEu79Gg)
 
-### Additional REAPER Channels
+### Additional REAPER Videos
+- [REAPER Mania with Kenny Gioia](https://www.youtube.com/channel/UCq297H7Ca98HlB5mVFHGSsQ)
+  - [Also available on REAPER's website, organized in chapters](https://www.reaper.fm/videos.php)
 - [The REAPER Blog](https://www.youtube.com/user/audiogeekzine/videos)
 - [ReaperTV](https://www.youtube.com/channel/UCMUHt6JzCMsdtvkaJpU3KXw/playlists)
-- [REAPER Mania](https://www.youtube.com/channel/UCq297H7Ca98HlB5mVFHGSsQ)
 
 ### Guitar
 - [iZotope - Tips For Mixing Guitar](https://www.youtube.com/watch?v=PNoXn-K88vc) 
@@ -77,9 +82,8 @@ ONLY use these when you have to!! You can accomplish almost anything with the to
 ### Vocals
 - [iZotope - How To Mix Vocals from Start to Finish](https://www.youtube.com/watch?v=jdIyIcH1_G8)
 
-----
 ## More info on synthesizers
-If you're willing to spend a little extra ($10/month) and want the ability to download lots of high-quality presets (instead of making your own from scratch), go with [Serum](https://xferrecords.com/products/serum). If you don't care as much about presets, want to learn sound design, want to support open source, or are just strapped for cash, go with [Vital](https://vital.audio).
+If you're willing to spend a little extra ($10/month) and want the ability to download lots of high-quality presets (instead of making your own from scratch), go with [Serum](https://xferrecords.com/products/serum). If you don't care as much about presets, want to learn sound design, want to support open source, or are just strapped for cash, go with [Vital](https://vital.audio). Vital also has Linux support and stores its patches in JSON format, which is awesome if you're a programmer.
 
 ### Serum
 - Download: [3-day free trial, then rent-to-own for $10/month over 19 months](https://splice.com/plugins/15493-serum-vst-au-by-xfer-records)
@@ -108,4 +112,10 @@ If you have a few extra bucks to spend, use [Sononym](https://www.sononym.net) f
 - [Splice](splice.com/sounds)
 - [Noiiz](https://www.noiiz.com)
 - [Loopcloud](https://www.loopcloud.com/cloud/)
+
+## Where to find free plugins
+ONLY use these when you have to!! You can accomplish almost anything with the tools [listed above](#essential-tools).
+- [AFreeStudio.com](https://AFreeStudio.com)  
+- [Unlock THOUSANDS of Free Plugins in Reaper](https://youtu.be/2W8gbpfxwiM)  
+- [Bedroom Producers Blog: Free VST Plugins](https://bedroomproducersblog.com/free-vst-plugins/)
 
