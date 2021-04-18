@@ -25,8 +25,8 @@
 - [iZotope Trash 2](https://www.pluginboutique.com/products/438-Trash2) (AMAZING distortion plugin, **not free** but often on sale)
 - [EZDrummer](https://www.toontrack.com/product/ezdrummer-2/) (high-quality acoustic drum instrument, **not free**)
   - Komplete Start comes with a few drum kits for free, so try those out before spending money on this.
-- [Serum](#synthesizers) (synthesizer, **not free** but has a nice rent-to-own plan. Lots of quality presets online)
-- [Vital](#synthesizers) (synthesizer, **free**. Much newer, so not as many presets available)
+- [Serum](#more-info-on-synthesizers) (synthesizer, **not free** but has a nice rent-to-own plan. Lots of quality presets online)
+- [Vital](#more-info-on-synthesizers) (synthesizer, **free**. Much newer, so not as many presets available)
 - [Stochas](https://stochas.org) (sequencer, **free**)
   - Reaper doesn't come with a live performance sequencer like Ableton and FL Studio do, so this is a good alternative.
 - [Sononym](https://www.sononym.net) (AI-powered sample browser, **not free**. Incredibly powerful for analyzing and organizing sounds)
