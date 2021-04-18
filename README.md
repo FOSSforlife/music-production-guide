@@ -38,7 +38,7 @@
 - [Serum](#more-info-on-synthesizers) (synthesizer, **not free** but has a nice rent-to-own plan. Lots of quality presets online)
 - [Vital](#more-info-on-synthesizers) (synthesizer, **free**. Much newer, so not as many presets available)
 - [Stochas](https://stochas.org) (sequencer, **free**)
-  - Reaper doesn't come with a live performance sequencer like Ableton and FL Studio do, so this is a good alternative.
+  - Reaper doesn't come with a live performance sequencer like Ableton and Bitwig do, so this is a good alternative.
 - [Sononym](https://www.sononym.net) (AI-powered sample browser, **not free**. Incredibly powerful for analyzing and organizing sounds)
 
 ### Useful Tools
