@@ -6,18 +6,29 @@
 ## Software
 
 ### Essential Tools
-- [REAPER](https://reaper.fm)
+- A DAW (digital audio workstation). There is no correct DAW to use. These all have different workflows, each with their own pros and cons, so choose what you like the most.
+  - My personal go-tos: 
+    - [REAPER](https://reaper.fm) (Mac, Windows, Linux) - My go-to for mixing, mastering, and recording. Very cheap, but just as powerful as any of the others. It's also the most customizable/scriptable DAW (you can use code to arrange items, route audio, and even write your own audio processing plugins!) Currently I use both this and Bitwig, but I might switch to just REAPER in the future if I can set everything up the way I like it.
+    - [Bitwig Studio](https://www.bitwig.com/) (Mac, Windows, Linux) - Currently what I use for jamming and sound design. Use this if you're into synths and sound design. It comes with a modular patching environment (The Grid) that is more intuitive than all of the other comparable tools out there.
+    - [Ableton Live](https://www.ableton.com) (Mac, Windows) - Like Bitwig, excellent for sound design and live performance. Extremely popular with electronic musicians, both professionals and hobbyists. Where it exceeds Bitwig: its plethora of high-quality, professional-sounding synths, effects, and samples (over 70 GB!) Where it lags behind Bitwig: no Linux support, its modular patching environment (Max for Live) is much more daunting, and it's more expensive. 
+  - Some others you may want to consider:
+    - [Pro Tools](https://www.avid.com/pro-tools) (Mac, Windows) - Industry standard. **Only use this (or at least learn _how_ to use it) if you plan to work in a professional studio. Otherwise, don't bother.**
+    - [Logic Pro](https://www.apple.com/logic-pro/) (Mac) - Haven't used it, but supposedly it comes with lots of cool plugins and an intuitive workflow, and I know professionals who use it daily. At $200, it might be the best bang for your buck if you're a Mac owner. 
+    - [Studio One](https://www.presonus.com/products/Studio-One) (Mac, Windows) - Haven't used this either, but a lot of people seem to like it.
+    - [FL Studio](https://www.image-line.com) (Mac, Windows) - Popular with electronic and hip hop musicians. LIFETIME free upgrades, which is nice if you plan to use it for a long time. I started out with this, but ended up liking Bitwig, Ableton, and Reaper a lot more.
+  - In addition, when it comes to composition and sound design (NOT mixing and mastering), some people prefer to use a "DAW-less" setup. This could involve using hardware sequencers/synths/drum machines, coding environments like Super Collider, virtual modular environments like VCV Rack, or a combination of all of the above. Don't spend your time on this if you're just starting out, but it's worth knowing that these tools exist for future reference.
 - [Komplete Start](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/) (free suite of plugins)
   - Comes with the [Guitar Rig 6 Player](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-6-player/) virtual amp software.
 - [iZotope Neutron](https://www.izotope.com/en/products/neutron.html) (all-in-one EQ, compressor, exciter, transient shaper, and more)
 
 ### Other Great Plugins
-- [iZotope Trash 2](https://www.pluginboutique.com/products/438-Trash2) (AMAZING distortion plugin, not free but often on sale)
-- [EZDrummer](https://www.toontrack.com/product/ezdrummer-2/) (high-quality acoustic drum instrument, not free)
-- [Serum](https://xferrecords.com/products/serum) (synthesizer, not free. Lots of quality presets online)
-- [Vital](https://vital.audio) (synthesizer, free. Much newer, so not as many presets available)
-- [Stochas](https://stochas.org) (sequencer, free)
+- [iZotope Trash 2](https://www.pluginboutique.com/products/438-Trash2) (AMAZING distortion plugin, **not free** but often on sale)
+- [EZDrummer](https://www.toontrack.com/product/ezdrummer-2/) (high-quality acoustic drum instrument, **not free**)
+- [Serum](#synthesizers) (synthesizer, **not free**. Lots of quality presets online)
+- [Vital](#synthesizers) (synthesizer, **free**. Much newer, so not as many presets available)
+- [Stochas](https://stochas.org) (sequencer, **free**)
   - Reaper doesn't come with a live performance sequencer like Ableton and FL Studio do, so this is a good alternative.
+- [Sononym](https://www.sononym.net) (AI-powered sample browser, **not free**. Incredibly powerful for analyzing and organizing sounds)
 - [Youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) (not a plugin, but useful for downloading backing tracks, samples, and other audio from YouTube)
 
 ### Where To Find Free Plugins
@@ -25,6 +36,10 @@ ONLY use these when you have to!! You can accomplish almost anything with the to
 - [AFreeStudio.com](https://AFreeStudio.com)  
 - [Unlock THOUSANDS of Free Plugins in Reaper](https://youtu.be/2W8gbpfxwiM)  
 - [Bedroom Producers Blog: Free VST Plugins](https://bedroomproducersblog.com/free-vst-plugins/)
+
+## Tools
+- [Tap BPM](https://www.all8.com/tools/bpm.htm) (can detect BPM by tapping the keyboard)
+  - You can do this in most DAWs as well, but I like using this tool because you can use it without affecting your project BPM
 
 ## YouTube channels
 - [The REAPER Blog](https://www.youtube.com/user/audiogeekzine/videos)
@@ -63,12 +78,18 @@ ONLY use these when you have to!! You can accomplish almost anything with the to
 - [iZotope - How To Mix Vocals from Start to Finish](https://www.youtube.com/watch?v=jdIyIcH1_G8)
 
 ## Synthesizers
-Start with [Serum](https://xferrecords.com/products/serum). Below are some tutorials and free presets:
+If you're willing to spend a little extra and want the ability to download lots of high-quality presets, go with [Serum](https://xferrecords.com/products/serum). If you don't care as much about presets, want to learn sound design, or are just strapped for cash, go with [Vital](https://vital.audio).
+
+Below are some tutorials and free presets:
 - [Dorian Day - Serum in Depth](https://www.youtube.com/playlist?list=PLrqs7vRFQ4rbeHxoDJHDGL3UkHgbcLZ62)
 - [Live 10 Wavetables for Serum](https://drive.google.com/file/d/1nFMuDHQpAMytbiVQlzL8kPKyxLbZSbYY/view) (highly recommended!)
 - [1700 free wavetables](https://www.reddit.com/r/edmproduction/comments/2jhew1/1700_waveforms_for_serums_wavetable_download_link/)
 
+Also recommended: [Signalizer](http://www.jthorborg.com/index.html?ipage=signalizer) is an oscilloscope plugin (also includes a spectrum analyzer and vector scope), which is invaluable for analyzing your synth patches and effects in realtime.
+
 ## Samples
+
+Once you've downloaded some samples, if you have a few extra bucks to spend, use [Sononym](https://www.sononym.net) for managing and analyzing your sample library.
 
 ### Free
 - [MusicRadar - over 70,000 samples organized by category](https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-and-multis-to-download)
