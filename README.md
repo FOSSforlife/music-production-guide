@@ -84,11 +84,11 @@
 - [iZotope - How To Mix Vocals from Start to Finish](https://www.youtube.com/watch?v=jdIyIcH1_G8)
 
 ## More info on synthesizers
-Synths are a great way to add flair to your songs, even if you aren't making solely electronic music. A synth plugin lets you generate your own sounds, including leads, basses, percussion, strings, pads, and more. I recommend using either [Serum](https://xferrecords.com/products/serum) or [Vital](https://vital.audio). Depending on your needs, you may only need _one_ synth for the rest of your career, as both of these are incredibly powerful and can create almost any sound. They both come with many sounds (also known as "presets", or "patches"), but you can also download them from the internet, tweak the ones you have, or create your own from scratch.
+Synths are a great way to add flair to your songs, even if you aren't making solely electronic music. A synth plugin lets you generate your own sounds, including leads, basses, percussion, strings, pads, and more. I recommend using either [Serum](https://xferrecords.com/products/serum) ($10/mo) or [Vital](https://vital.audio) (FREE). Depending on your needs, you may only need _one_ synth for the rest of your career, as both of these are incredibly powerful and can create almost any sound. They both come with many sounds (also known as "presets" or "patches"), but you can also download them from the internet, tweak the ones you have, or create your own from scratch.
 
 My recommendation:
-- If you're willing to spend a little extra ($10/month) and want the ability to download lots of high-quality presets, go with Serum. 
-- If you don't care as much about presets, want to learn sound design, want to support open source, or just like things that are **FREE**, go with Vital. Vital also has Linux support and stores its patches in JSON format, which is awesome if you're a programmer. 
+- If you're willing to spend a little extra ($10/month) and want the ability to download lots of high-quality presets, go with **Serum**. 
+- If you don't care as much about presets, want to learn sound design, want to support open source, or just like things that are FREE, go with **Vital**. Vital also has Linux support and stores its patches in JSON format, which is awesome if you're a programmer. 
 
 ### Serum
 - Download: [3-day free trial, then rent-to-own for $10/month over 19 months](https://splice.com/plugins/15493-serum-vst-au-by-xfer-records)
