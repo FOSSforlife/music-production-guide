@@ -84,7 +84,7 @@
 - [iZotope - How To Mix Vocals from Start to Finish](https://www.youtube.com/watch?v=jdIyIcH1_G8)
 
 ## More info on synthesizers
-Synths are a great way to add flair to your songs, even if you aren't making solely electronic music. A synth plugin lets you generate your own sounds, including leads, basses, percussion, strings, pads, and more. I recommend using either [Serum](https://xferrecords.com/products/serum) or [Vital](https://vital.audio). Depending on your needs, you may only need _one_ synth for the rest of your career, as both of these are incredibly powerful and can create almost any sound. They both come out of the box with many sounds (also known as "presets", or "patches"), but you can also download them from the internet, tweak the ones you have, or create your own from scratch.
+Synths are a great way to add flair to your songs, even if you aren't making solely electronic music. A synth plugin lets you generate your own sounds, including leads, basses, percussion, strings, pads, and more. I recommend using either [Serum](https://xferrecords.com/products/serum) or [Vital](https://vital.audio). Depending on your needs, you may only need _one_ synth for the rest of your career, as both of these are incredibly powerful and can create almost any sound. They both come with many sounds (also known as "presets", or "patches"), but you can also download them from the internet, tweak the ones you have, or create your own from scratch.
 
 My recommendation:
 - If you're willing to spend a little extra ($10/month) and want the ability to download lots of high-quality presets, go with Serum. 
