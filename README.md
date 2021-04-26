@@ -19,9 +19,9 @@
     - [FL Studio](https://www.image-line.com) (Mac, Windows) - Popular with electronic and hip hop musicians. LIFETIME free upgrades at a cheap one-time price, which no other DAW on this list currently offers, a promise they've kept for over 20 years. I started out with this, but ended up liking Bitwig, Ableton, and Reaper a lot more.
     - [Cakewalk](https://www.bandlab.com/products/cakewalk) (Windows only) - Free DAW. Tried it a while ago and didn't care much for it, but some people seem to like it. Try it out, but don't let price be the sole determining factor.
   - In addition, when it comes to electronic composition and sound design (NOT mixing and mastering), some people prefer to use a "DAW-less" setup. This could involve using hardware sequencers/synths/drum machines, coding environments like Super Collider, virtual modular environments like VCV Rack, or a combination of all of the above. Don't spend your time on this if you're just starting out, but take note for future reference that these tools exist.
-- Free virtual instruments and guitar amps: [Komplete Start](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/)
+- Free virtual instruments and guitar amps: [Komplete Start](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/) by Native Instruments
   - Comes with the [Guitar Rig 6 Player](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-6-player/) virtual amp software, some drum kits (in the Kontakt Factory Selection), and [much more](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/included-products/).
-- A mixing/mastering plugin suite: iZotope Neutron and Ozone Standard (includes EQ, compressor, exciter, transient shaper, and more)
+- A mixing/mastering plugin suite: iZotope [Neutron](https://www.izotope.com/en/products/neutron.html) and [Ozone](https://www.izotope.com/en/products/ozone.html) Standard (includes EQ, compressor, exciter, transient shaper, and more)
   - If you can only afford one, get Neutron. You won't need Ozone until you're ready to master, in other words putting final touches on your audio for publishing.
   - If you're using Ableton Live, just start with the built-in mixing/mastering plugins, as those are very high quality. 
   - Neutron + Ozone:
@@ -33,12 +33,12 @@
     - [Rent-to-own: $10/mo for 25 months](https://splice.com/plugins/38728958-neutron-3-standard-vst-au-by-izotope)
 
 ### Other Great Plugins
-- [iZotope Trash 2](https://www.pluginboutique.com/products/438-Trash2) (AMAZING distortion plugin, **not free** but often on sale)
-- [EZDrummer](https://www.toontrack.com/product/ezdrummer-2/) (high-quality acoustic drum instrument, **not free**)
+- [Trash 2](https://www.pluginboutique.com/products/438-Trash2) by iZotope (AMAZING distortion plugin, **not free** but often on sale)
+- [EZDrummer](https://www.toontrack.com/product/ezdrummer-2/) by Toontrack (high-quality acoustic drum instrument, **not free**)
   - Komplete Start comes with a few drum kits for free, so try those out before spending money on this.
-- [Serum](#more-info-on-synthesizers) (synthesizer, **not free** but has a nice rent-to-own plan. Lots of quality presets online)
-- [Vital](#more-info-on-synthesizers) (synthesizer, **free**. Much newer, so not as many presets available)
-- [Stochas](https://stochas.org) (sequencer, **free**)
+- [Serum](#more-info-on-synthesizers) by Xfer Records (synthesizer, **not free** but has a nice rent-to-own plan. Lots of quality presets online)
+- [Vital](#more-info-on-synthesizers) by Matt Tytel (synthesizer, **free**. Much newer, so not as many presets available)
+- [Stochas](https://stochas.org) by Surge Synth Team (sequencer, **free**)
   - Reaper doesn't come with a live performance sequencer like Ableton and Bitwig do, so this is a good alternative.
 - [Sononym](https://www.sononym.net) (AI-powered sample browser, **not free**. Incredibly powerful for analyzing and organizing sounds)
 
