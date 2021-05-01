@@ -37,6 +37,7 @@
 - [Trash 2](https://www.pluginboutique.com/products/438-Trash2) by iZotope (AMAZING distortion plugin, **not free** but often on sale)
 - [EZDrummer](https://www.toontrack.com/product/ezdrummer-2/) by Toontrack (high-quality acoustic drum instrument, **not free**)
   - Komplete Start comes with a few drum kits for free, so try those out before spending money on this.
+- [Sitala](https://decomposer.de/sitala/) by Decomposer (drum sampler, **free**. Use your own samples or the built-in TR-808)
 - [Serum](#more-info-on-synthesizers) by Xfer Records (synthesizer, **not free** but has a nice rent-to-own plan. Lots of quality presets online)
 - [Vital](#more-info-on-synthesizers) by Matt Tytel (synthesizer, **free**. Much newer, so not as many presets available)
 - [Stochas](https://stochas.org) by Surge Synth Team (sequencer, **free**)
